@@ -1,0 +1,42 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - speech_to_text (0.0.1):
+    - Flutter
+    - Try
+  - Try (2.1.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - speech_to_text (from `.symlinks/plugins/speech_to_text/ios`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Try
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  speech_to_text:
+    :path: ".symlinks/plugins/speech_to_text/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  image_picker_ios: 4a8aadfbb6dc30ad5141a2ce3832af9214a705b5
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  speech_to_text: b43a7d99aef037bd758ed8e45d79bbac035d2dfe
+  Try: 5ef669ae832617b3cee58cb2c6f99fb767a4ff96
+
+PODFILE CHECKSUM: 3f8b4326d35af3f4c6abb6ea28df92f9bb6b0cca
+
+COCOAPODS: 1.12.1
